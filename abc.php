@@ -4,6 +4,7 @@
 
 <?php
 echo "Hello Shivani";
+echo "How are you ?";
 ?>
 
 </body>
